@@ -43,9 +43,11 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      Data Science student at the Faculty of Artificial Intelligence, Menoufia University, with a strong academic focus in data analysis, machine learning, and real-world data projects related to my specialization.<br><br>
-      Results-driven aspiring Machine Learning Developer with hands-on experience in academic projects involving data wrangling, visualization, model building, and evaluation.<br><br>
-      Proficient in Python, SQL, Power BI, and Excel. Capable of turning complex data into actionable insights through clean dashboards and reports.
+       I'm an aspiring AI engineer and data scientist with hands-on experience in machine 
+learning and deep learning projects. I have a strong foundation in mathematics and 
+programming, demonstrated by my successful projects like house prices prediction and 
+heart disease prediction. My enthusiasm for AI drives me to continuously learn and 
+tackle real-world challenges through innovative solutions
     </td>
     <td width="35%" align="right">
       <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Coder GIF"/>
