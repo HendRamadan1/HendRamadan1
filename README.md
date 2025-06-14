@@ -12,6 +12,15 @@
 </p>
 
 
+<p align="center">
+   <img alt="followers" src="https://img.shields.io/github/followers/HendRamadan1?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/HendRamadan1?label=Stars" alt="stars">
+   <a href="https://github.com/HendRamadan1" target="_blank">
+    <img src="imgs/github.svg" alt="GitHub" height="30">
+  </a>
+  
+</p> 
+
 ## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;About Me
 
 <table>
@@ -114,3 +123,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HendRamadan1&theme=dracula&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
