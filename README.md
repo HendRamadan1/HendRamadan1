@@ -15,9 +15,26 @@
 <p align="center">
    <img alt="followers" src="https://img.shields.io/github/followers/HendRamadan1?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/HendRamadan1?label=Stars" alt="stars">
-   <a href="https://github.com/HendRamadan1" target="_blank">
-    <img src="imgs/github.svg" alt="GitHub" height="30">
   </a>
+  <a href="https://github.com/HendRamadan1/image-processing-project-">
+    <img src="https://img.shields.io/github/forks/HendRamadan1/image-processing-project-?label=Forks" alt="Forks Badge"/>
+  </a>
+    <!-- Pull Requests -->
+  <a href="https://github.com/HendRamadan1/image-processing-project-">
+    <img src="https://img.shields.io/github/issues-pr/HendRamadan1/image-processing-project-?style=flat-square" alt="Pull Requests Badge"/>
+  </a>
+
+  <!-- Contributors -->
+  <a href="https://github.com/HendRamadan1/image-processing-project-">
+    <img src="https://img.shields.io/github/contributors/HendRamadan1/image-processing-project-?style=flat-square" alt="Contributors Badge"/>
+  </a>
+
+
+
+  <!-- Last Commit -->
+  <a href="https://github.com/HendRamadan1/image-processing-project-">
+    <img src="https://img.shields.io/github/last-commit/HendRamadan1/image-processing-project-?style=flat-square" alt="Last Commit Badge"/>
+  </a
   
 </p> 
 
@@ -92,16 +109,89 @@
 ## 📈 Featured Projects
 
 
+<div align="center">
 
-- Titanic Classification Model – Supervised Learning + Visualization  
-- Voting Ensemble Classifier – Bagging & Boosting Integration  
-- Deployment Demo – Model API with FastAPI and JSON prediction
+  <!-- 🧠 Image Processing Project -->
+  <a href="https://github.com/HendRamadan1/image-processing-project-">
+    <img src="https://img.shields.io/badge/Image_Processing_Project-007ACC?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing Project" />
+  </a>
+
+  <!-- 🚢 Titanic GUI Project -->
+  <a href="https://github.com/HendRamadan1/Titanic-with-GUI">
+    <img src="https://img.shields.io/badge/Titanic_Analysis_with_GUI-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Titanic GUI Project" />
+  </a>
+  
+  <!-- 🏡 Housing Price Prediction -->
+  <a href="https://github.com/HendRamadan1/Housing-price-prediction">
+    <img src="https://img.shields.io/badge/Housing_Price_Prediction-0A9396?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Housing Price Prediction" />
+  </a>
+
+</div>
+
+
+##  <img src="https://img.icons8.com/color/48/image.png" width="24"/> Image Processing Project  
+<a href="https://github.com/HendRamadan1/image-processing-project-">
+  <img align="right" width="250" src="https://img.shields.io/badge/GitHub_Repo-007ACC?style=for-the-badge&logo=opencv&logoColor=white" />
+</a>
+
+- Built image classification tools using OpenCV for preprocessing and feature extraction  
+- Applied basic filters, edge detection, and object recognition techniques  
+- **Technologies:** OpenCV, Python
+
+
+
+## 🚢 Titanic Survival Prediction with GUI  
+<a href="https://github.com/HendRamadan1/Titanic-with-GUI">
+  <img align="right" width="250" src="https://img.shields.io/badge/GitHub_Repo-FFCA28?style=for-the-badge&logo=python&logoColor=black" />
+</a>
+
+- Designed an interactive desktop app using Streamlit for predicting passenger survival  
+- Performed feature engineering and model training on Titanic dataset  
+- **Technologies:** Python (Streamlit, Pandas, Sklearn)
+
+
+
+## 🏠 Housing Price Prediction  
+<a href="https://github.com/HendRamadan1/Housing-price-prediction">
+  <img align="right" width="250" src="https://img.shields.io/badge/GitHub_Repo-0A9396?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</a>
+
+- Built regression model to predict housing prices using historical data  
+- Handled missing values, feature scaling, and model evaluation (RMSE, R²)  
+- **Technologies:** Python (Sklearn, Pandas, Matplotlib,seaborn,numpy)
+
+### 🔍 Other Notable Projects
+
+<details>
+  <summary>🧩 summary</summary>
+
+  ### 💻 Software Engineering Project  
+  <!-- <a href="https://github.com/HendRamadan1/SWE-project">...</a> تم الحذف -->
+  - Collaborative software project implementing modular architecture and UML  
+  - Covered software development lifecycle: planning, design, coding, testing  
+  - **Technologies:** Python, UML, GitHub Projects
+
+  ---
+
+  ### 🗃️ Oracle Database Project  
+  <!-- <a href="https://github.com/HendRamadan1/Oracle-DataBase">...</a> تم الحذف -->
+  - Created database schema, ER diagrams, and executed complex SQL queries  
+  - Focused on normalization, indexing, and stored procedures  
+  - **Technologies:** Oracle SQL, PL/SQL
+
+</details>
+
+  
 
 ## 🧠 Currently Learning
 
 - Model deployment workflow: saving models, building APIs, testing, and monitoring  
 - Advanced data visualization with interactive dashboards  
-- Real-world case studies with Python and public datasets
+- Real-world case studies with Python and public datasets  
+- Building real projects using machine learning models  
+- Studying advanced database systems and optimization techniques  
+- Getting started with deep learning fundamentals
+
 
 ## 📫 Let's Connect!
 <div align="center">
